@@ -1,0 +1,6 @@
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\TAD PILA\GabrielCedeño3B\bin\Debug\GabrielCedeño3B.exe.config
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\TAD PILA\GabrielCedeño3B\bin\Debug\GabrielCedeño3B.exe
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\TAD PILA\GabrielCedeño3B\bin\Debug\GabrielCedeño3B.pdb
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\TAD PILA\GabrielCedeño3B\obj\Debug\GabrielCedeño3B.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\TAD PILA\GabrielCedeño3B\obj\Debug\GabrielCedeño3B.exe
+C:\Users\Personal\Desktop\3semestre\POO EJERCICIOS\TAD PILA\GabrielCedeño3B\obj\Debug\GabrielCedeño3B.pdb
